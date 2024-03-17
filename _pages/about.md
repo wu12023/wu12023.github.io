@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m @[**YimingShi**](https://shiym.top/about/), an undergraduate at the [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/). 
+Hi, I’m @[**YimingShi**](https://shiym.top/about/), an undergraduate at the [University of Electronic Science and Technology of China(UESTC)](https://en.uestc.edu.cn/). 
 
 I hold dual degrees in **Finance** and **Computer Science and Technology**. 
 
 I am a member of the **DevOps** team at the on-campus [**Star Studio**](https://github.com/StarStudio) and a member of the [**Center for FutureMedia**](https://cfm.uestc.edu.cn/index)  studying *multimodal*, and I'm deeply passionate about *deep learning*.
 
-I am very fortunate to be co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Assoc. Prof. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao) from the [Center for Future Media](https://cfm.uestc.edu.cn/index), Department of Computer Science at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). As a research trainee since May 2023, my focus has been on *fine-tuning* large multimodal models and investigating *cross-modal* interactions.
+I am very fortunate to be co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Assoc. Prof. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao) from the [Center for Future Media](https://cfm.uestc.edu.cn/index), Department of Computer Science at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). As a research trainee since May 2023, my focus has been on *fine-tuning* large multimodal models and investigating *cross-modal* interactions.
 
 ### News
 
