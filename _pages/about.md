@@ -24,7 +24,7 @@ I will share our experience and insights from this competition soon.
 You can find our award certificate [here](../files/xiugo-certificate.pdf)
 
 
-[Email](mailto:yimingshi666@gmail.com) / [GitHub](https://github/SKDDJ) / [Wechat](https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg) / [Blog](https://shiym.top)
+[Email](mailto:yimingshi666@gmail.com) / [GitHub](https://github.com/SKDDJ) / [Wechat](https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg) / [Blog](https://shiym.top)
 
 <!--   
 ### 🏢 Study Experience
