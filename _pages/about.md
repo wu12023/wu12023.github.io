@@ -22,7 +22,7 @@ You can find our award certificate [here](../files/xiugo-certificate.pdf)
 
 [Email](mailto:yimingshi666@gmail.com) / [GitHub](https://github/SKDDJ) / [Wechat](https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg) / [Blog](https://shiym.top)
 
-  
+<!--   
 ### 🏢 Study Experience
 
 <img align="right" width="88" src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202310281910558.jpg" />
@@ -48,19 +48,19 @@ You can find our award certificate [here](../files/xiugo-certificate.pdf)
   - Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Assoc. Prof. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
   - Training Focus: Fine-tuning of parameters for large-scale multimodal models and investigating into cross-modal interactions.
 
+<!-- 
 
-<!-- 近期博客 -->
 ### 📃 Recent Blog
 
 
-<!-- START_SECTION:blog -->
+
 * <a href='https://shiym.top/article/a0d51f41' target='_blank'>金融学基础</a> - 2022-12-27
 * <a href='https://shiym.top/article/5d312595' target='_blank'>数据挖掘与大数据分析</a> - 2022-12-27
 * <a href='https://shiym.top/article/28d5cef4' target='_blank'>概率论与数理统计</a> - 2022-12-24
 * <a href='https://shiym.top/article/dbeddcc1' target='_blank'>计算机操作系统</a> - 2023-07-01
 * <a href='https://shiym.top/article/f1b79b2a' target='_blank'>金融衍生工具</a> - 2023-07-01
-<!-- END_SECTION:blog -->
 
 
+ -->
 
 
