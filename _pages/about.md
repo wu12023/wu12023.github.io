@@ -17,7 +17,7 @@ I am very fortunate to be co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.
 
 ### News
 
-- [24/01/12] In the final round of the [Intelligent Algorithm and Computing Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code was [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round)
+- [24/01/12] In the final round of the [International Algorithm and Computing Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code was [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round)
 
 I will share our experience and insights from this competition soon. 
 
