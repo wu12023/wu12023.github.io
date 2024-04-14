@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-<strong style="color: red;">Pursuing a Ph.D. journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!</strong>
+<!-- 
+<strong style="color: red;">*** Pursuing a Ph.D. journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together! ***</strong> -->
+<div style="border-bottom: 1px solid #000; display: inline-block; color: red;">
+    <strong><em>**Pursuing a Ph.D. journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!**</em></strong>
+</div>
+
 
 Hi, I’m @[**YimingShi**](https://shiym.top/about/), an undergraduate at the [University of Electronic Science and Technology of China(UESTC)](https://en.uestc.edu.cn/). 
 
-I hold dual degrees in **Finance** and **Computer Science and Technology**.
+I hold dual degrees in **Finance** & **Computer Science and Technology**.
 
 
 I am a member of the **DevOps** team at the on-campus [**Star Studio**](https://github.com/StarStudio) and a member of the [**Center for FutureMedia**](https://cfm.uestc.edu.cn/index)  studying *multimodal*, and I'm deeply passionate about *deep learning*.
