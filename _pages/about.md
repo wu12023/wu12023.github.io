@@ -13,20 +13,41 @@ redirect_from:
     <strong><em>**Pursuing a Ph.D. journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!**</em></strong>
 </div>
 
+Hi, I'm [**Yiming Shi**](https://shiym.top/about/), an undergraduate in the ***Internet+ Dual Degree Program*** at the [University of Electronic Science and Technology of China (**UESTC**)](https://en.uestc.edu.cn/). I'm majoring double in **Finance** and **Computer Science and Technology**.
 
-Hi, I’m @[**YimingShi**](https://shiym.top/about/), an undergraduate from *Internet+ Dual Degree Program* at the [University of Electronic Science and Technology of China(UESTC)](https://en.uestc.edu.cn/). 
+## Current Position
+
+I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en).
+
+### Previous Experience
+
+- **Research Trainee** (May 2023 - Present)  
+  [**Center for Future Media**](https://cfm.uestc.edu.cn/index) at UESTC  
+  Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Dr. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
+
+- **DevOps Team Member** (Nov 2022 - Present)  
+  [**Star Studio**](https://github.com/StarStudio) (Official Workshop)
+
+### Research Interests
+
+My research focuses on:
+- Parameter-efficient fine-tuning (PEFT)
+- Diffusion models
+- Multimodal learning
+
+I'm deeply passionate about deep learning.
+
+<!-- Hi, I’m @[**YimingShi**](https://shiym.top/about/), an undergraduate from ***Internet+ Dual Degree Program*** at [University of Electronic Science and Technology of China(**UESTC**)](https://en.uestc.edu.cn/). 
 
 I major double in **Finance** & **Computer Science and Technology**.
 
-I'm now a Intern in [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Doc. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en)
+I'm now an Intern in [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Doc. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en)
 
-Prior that, I am very fortunate to be co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Doc. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao) from the [Center for Future Media](https://cfm.uestc.edu.cn/index) at the [UESTC](https://en.uestc.edu.cn/), as a research trainee since May 2023.
+Prior that, I am very fortunate to be co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Doc. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao) from [**Center for Future Media**](https://cfm.uestc.edu.cn/index) at [**UESTC**](https://en.uestc.edu.cn/), as a research trainee since May 2023.
 
-My focus has been on *parameter-efficient fine-tuning(PEFT)*,  Diffusion, Multimodal.
+My focus has been on ***parameter-efficient fine-tuning(PEFT)*,  Diffusion, Multimodal**. I'm deeply passionate about deep learning.
 
-I'm deeply passionate about *deep learning*.
-
-In second year, I am a member of the **DevOps** team at [**Star Studio**](https://github.com/StarStudio)(Official Workshop).
+In second year, I am a member of the **DevOps** team at [**Star Studio**](https://github.com/StarStudio) (Official Workshop). -->
 
 
 ### News
