@@ -18,7 +18,7 @@ Hi, I’m @[**YimingShi**](https://shiym.top/about/), an undergraduate from *Int
 
 I major double in **Finance** & **Computer Science and Technology**.
 
-I'm now a Intern in [**TSAIL**]() at [Tsinghua University](), co-advised by [Prof. Jun Zhu]() and [Doc. Zehua Chen]()
+I'm now a Intern in [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Doc. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en)
 
 Prior that, I am very fortunate to be co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Doc. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao) from the [Center for Future Media](https://cfm.uestc.edu.cn/index) at the [UESTC](https://en.uestc.edu.cn/), as a research trainee since May 2023.
 
@@ -26,7 +26,7 @@ My focus has been on *parameter-efficient fine-tuning(PEFT)*,  Diffusion, Multim
 
 I'm deeply passionate about *deep learning*.
 
-In my second year, I am a member of the **DevOps** team at [**Star Studio**](https://github.com/StarStudio)(Official Workshop).
+In second year, I am a member of the **DevOps** team at [**Star Studio**](https://github.com/StarStudio)(Official Workshop).
 
 
 ### News
