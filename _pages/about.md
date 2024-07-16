@@ -13,27 +13,30 @@ redirect_from:
     <strong><em>**Pursuing a Ph.D. journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!**</em></strong>
 </div>
 
-Hi, I'm [**Yiming Shi**](https://shiym.top/about/), an undergraduate in the ***Internet+ Dual Degree Program*** at the [University of Electronic Science and Technology of China (**UESTC**)](https://en.uestc.edu.cn/). I'm majoring double in **Finance** and **Computer Science and Technology**.
+
+Hi, I'm [**Yiming Shi**](https://shiym.top/about/), an undergraduate in the ***Internet+ Dual Degree Program*** at the [University of Electronic Science and Technology of China (**UESTC**)](https://en.uestc.edu.cn/).
+
+I'm majoring double in **Finance** and **Computer Science and Technology**.
 
 ## Current Position
 
 I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en).
 
-### Previous Experience
+## Previous Experience
 
-- **Research Trainee** (May 2023 - Present)  
-  [**Center for Future Media**](https://cfm.uestc.edu.cn/index) at UESTC  
+- **Research Intern** (May 2023 - Present)  
+  [**Center for Future Media**](https://cfm.uestc.edu.cn/index) at [**UESTC**](https://en.uestc.edu.cn/)  
   Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Dr. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
 
 - **DevOps Team Member** (Nov 2022 - Present)  
-  [**Star Studio**](https://github.com/StarStudio) (Official Workshop)
+  [**Star Studio**](https://github.com/StarStudio) (*Official Workshop*)
 
-### Research Interests
+## Research Interests
 
 My research focuses on:
-- Parameter-efficient fine-tuning (PEFT)
-- Diffusion models
-- Multimodal learning
+- **Parameter-efficient fine-tuning (PEFT)**
+- **Diffusion**
+- **Multimodal**
 
 I'm deeply passionate about deep learning.
 
