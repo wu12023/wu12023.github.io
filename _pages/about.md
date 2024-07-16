@@ -14,25 +14,30 @@ redirect_from:
 </div>
 
 
-Hi, I’m @[**YimingShi**](https://shiym.top/about/), an undergraduate at the [University of Electronic Science and Technology of China(UESTC)](https://en.uestc.edu.cn/). 
+Hi, I’m @[**YimingShi**](https://shiym.top/about/), an undergraduate from *Internet+ Dual Degree Program* at the [University of Electronic Science and Technology of China(UESTC)](https://en.uestc.edu.cn/). 
 
-I hold dual degrees in **Finance** & **Computer Science and Technology**.
+I major double in **Finance** & **Computer Science and Technology**.
 
+I'm now a Intern in [**TSAIL**]() at [Tsinghua University](), co-advised by [Prof. Jun Zhu]() and [Doc. Zehua Chen]()
 
-I am a member of the **DevOps** team at the on-campus [**Star Studio**](https://github.com/StarStudio) and a member of the [**Center for FutureMedia**](https://cfm.uestc.edu.cn/index)  studying *multimodal*, and I'm deeply passionate about *deep learning*.
+Prior that, I am very fortunate to be co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Doc. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao) from the [Center for Future Media](https://cfm.uestc.edu.cn/index) at the [UESTC](https://en.uestc.edu.cn/), as a research trainee since May 2023.
 
-I am very fortunate to be co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Assoc. Prof. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao) from the [Center for Future Media](https://cfm.uestc.edu.cn/index), Department of Computer Science at the [UESTC](https://en.uestc.edu.cn/). As a research trainee since May 2023, my focus has been on *fine-tuning* large multimodal models and investigating *cross-modal* interactions.
+My focus has been on *parameter-efficient fine-tuning(PEFT)*,  Diffusion, Multimodal.
+
+I'm deeply passionate about *deep learning*.
+
+In my second year, I am a member of the **DevOps** team at [**Star Studio**](https://github.com/StarStudio)(Official Workshop).
+
 
 ### News
 
-- [24/01/12] In the final round of the [International Algorithm and Computing Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code was [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round)
-
-I will share our experience and insights from this competition soon. 
+- [24/01/12] In the final round of the [International Algorithm and Case Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code was [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round)
 
 You can find our award certificate [here](../files/xiugo-certificate.pdf)
 
 
 [Email](mailto:yimingshi666@gmail.com) / [GitHub](https://github.com/SKDDJ) / [Wechat](https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg) / [Blog](https://shiym.top)
+
 
 <!--   
 ### 🏢 Study Experience
