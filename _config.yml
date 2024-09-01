@@ -21,7 +21,7 @@ repository               : "SKDDJ/yiming_shi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202403161921480.jpg"
+  avatar           : https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202409012148702.jpg"
   name             : "Yiming Shi"
   pronouns         : "He/His"  # example: "she/her"
   bio              : "Work Hard! Play Hard!"
