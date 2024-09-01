@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Recent Publication
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+--- 
 
 **DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**
 
@@ -16,12 +20,10 @@ author_profile: true
 [Read the full paper](https://arxiv.org/pdf/2408.06740)
 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% include base_path %} -->
+
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
