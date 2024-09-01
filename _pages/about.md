@@ -40,9 +40,10 @@ I'm deeply passionate about deep learning.
 
 ### News
 
-- [24/01/12] In the final round of the [International Algorithm and Case Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code was [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round)
+- [24/08/11] Our paper "DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion" has been published on arXiv. You can read the full paper [here](https://arxiv.org/pdf/2408.06740).
 
-You can find our award certificate [here](../files/xiugo-certificate.pdf)
+- [24/01/12] In the final round of the [International Algorithm and Case Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code is [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round). You can find our award certificate [here](../files/xiugo-certificate.pdf).
+
 
 
 [Email](mailto:yimingshi666@gmail.com) / [GitHub](https://github.com/SKDDJ) / [Wechat](https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg) / [Blog](https://shiym.top)
