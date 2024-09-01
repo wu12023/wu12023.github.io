@@ -1,4 +1,12 @@
 ---
+layout: null
+title: "CV"
+permalink: /cv/
+redirect_to: /files/yimingshi_cv.pdf
+---
+
+
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -7,7 +15,7 @@ redirect_from:
   - /../files/yimingshi_cv.pdf
 ---
 
-{% include base_path %}
+{% include base_path %} -->
 
 <!-- Education
 ======
