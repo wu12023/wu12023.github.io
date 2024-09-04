@@ -34,8 +34,10 @@ I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsing
 My research primarily focuses on the following areas:
 
 - **Parameter-Efficient Fine-Tuning (PEFT)**
+- **Data Distillation**
+- **Schrodinger Bridge**
 - **Diffusion Models**
-- **Multimodal Learning**
+- **Multimodal**
 
 I'm deeply passionate about deep learning and its applications in these fields. 
 
