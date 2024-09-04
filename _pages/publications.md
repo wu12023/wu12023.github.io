@@ -9,8 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+---
 
-## Publications
+<!-- ## Publications -->
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
