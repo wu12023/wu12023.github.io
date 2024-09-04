@@ -31,12 +31,15 @@ I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsing
 
 ## Research Interests
 
-My research focuses on:
-- **Parameter-Efficient Fine-Tuning (PEFT)**
-- **Diffusion**
-- **Multimodal**
+My research primarily focuses on the following areas:
 
-I'm deeply passionate about deep learning.
+- **Parameter-Efficient Fine-Tuning (PEFT)**
+- **Diffusion Models**
+- **Multimodal Learning**
+
+I'm deeply passionate about deep learning and its applications in these fields. 
+
+For a curated list of the latest research papers related to my interests, please visit [my ArXiv daily digest](https://shiym.top/cv-arxiv-daily/). This resource leverages the ArXiv API to aggregate and present relevant topics in an easily digestible format.
 
 ### News
 
