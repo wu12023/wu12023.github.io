@@ -20,6 +20,14 @@ I'm majoring double in **Finance** and **Computer Science and Technology**.
 
 I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en).
 
+## News
+
+- [24/08/11] Our paper "DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion" has been published on arXiv. You can read the full paper [here](https://arxiv.org/pdf/2408.06740).
+
+- [24/01/12] In the final round of the [International Algorithm and Case Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code is [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round). You can find our award certificate [here](../files/xiugo-certificate.pdf).
+
+
+
 ## Previous Experience
 
 - **Research Intern** (May 2023 - Present)  
@@ -42,13 +50,6 @@ My research primarily focuses on the following areas:
 I'm deeply passionate about deep learning and its applications in these fields. 
 
 For a curated list of the latest research papers related to my interests, please visit [my ArXiv daily digest](https://shiym.top/cv-arxiv-daily/). This resource leverages the ArXiv API to aggregate and present relevant topics in an easily digestible format.
-
-### News
-
-- [24/08/11] Our paper "DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion" has been published on arXiv. You can read the full paper [here](https://arxiv.org/pdf/2408.06740).
-
-- [24/01/12] In the final round of the [International Algorithm and Case Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code is [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round). You can find our award certificate [here](../files/xiugo-certificate.pdf).
-
 
 
 [Email](mailto:yimingshi666@gmail.com) / [GitHub](https://github.com/SKDDJ) / [Wechat](https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg) / [Blog](https://shiym.top)
