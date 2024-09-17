@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yiming Shi/ Site"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yiming Shi"
-description              : &description "Work Hard! Play Hard!"
+description              : &description "Research Intern @ 1-508 FIT Building, Tsinghua University"
 url                      : https://academic.shiym.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SKDDJ/yiming_shi.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202409012148702.jpg"
   name             : "Yiming Shi"
   pronouns         : "He/His"  # example: "she/her"
-  bio              : "Work Hard! Play Hard!"
-  location         : "Beijing, China"
-  employer         : "UESTC"
+  bio              : "Research Intern @ 1-508 FIT Building, Tsinghua University"
+  location         : "Beijing, 100084, China"
+  # employer         : ""
   uri              : "https://shiym.top" # URL
   email            : "yimingshi666@gmail.com" 
 
