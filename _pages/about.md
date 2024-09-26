@@ -35,7 +35,7 @@ I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsing
   Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Dr. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
 
 - **DevOps Team Member** (Nov 2022 - Present)  
-  [**Star Studio**](https://github.com/StarStudio) (*Official Workshop*)
+  [**Star Studio**](https://github.com/StarStudio) (*Official Campus Forum Workshop*)
 
 ## Research Interests
 
