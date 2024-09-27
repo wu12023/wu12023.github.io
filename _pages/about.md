@@ -14,7 +14,7 @@ redirect_from:
 
 Hi, I'm [**Yiming Shi**](https://shiym.top/about/), an undergraduate in the ***Internet+ Dual Degree Program*** at the [University of Electronic Science and Technology of China (**UESTC**)](https://en.uestc.edu.cn/).
 
-I'm majoring double in **Finance** and **Computer Science and Technology**.
+I'm majoring double in **Computer Science and Technology** and **Finance**.
 
 ## Current Position
 
