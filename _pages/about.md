@@ -18,7 +18,7 @@ I'm majoring double in **Finance** and **Computer Science and Technology**.
 
 ## Current Position
 
-I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en).
+I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en). Currently I'm working with [Dr. Duo Su](https://suduo94.github.io/) in the area of dataset distillation, with a focus on Efficient AI.
 
 ## News
 
