@@ -22,6 +22,8 @@ I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsing
 
 ## News
 
+- [24/10/18] Our paper "LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning" has been published on arXiv. You can read the full paper [here](https://arxiv.org/abs/2410.13618). Our code can be accessed at [here](https://github.com/SKDDJ/LoLDU).
+
 - [24/08/11] Our paper "DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion" has been published on arXiv. You can read the full paper [here](https://arxiv.org/pdf/2408.06740).
 
 - [24/01/12] In the final round of the [International Algorithm and Case Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code is [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round). You can find our award certificate [here](../files/xiugo-certificate.pdf).
@@ -42,7 +44,7 @@ I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsing
 My research primarily focuses on the following areas:
 
 - **Parameter-Efficient Fine-Tuning (PEFT)**
-- **Data Distillation**
+- **Dataset Distillation**
 - **Schrodinger Bridge**
 - **Diffusion Models**
 - **Multimodal**
