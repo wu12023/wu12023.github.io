@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yiming Shi (史一鸣)"
 author_profile: true
 redirect_from: 
   - /about/
