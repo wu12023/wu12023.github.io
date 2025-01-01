@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="border-bottom: 1px solid #000; display: inline-block; color: red;">
-    <strong><em>**Pursuing a Ph.D. journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!**</em></strong>
+    <strong><em>**Pursuing a Ph.D journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!**</em></strong>
 </div>
 
 
