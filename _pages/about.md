@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 <div style="border-bottom: 1px solid #000; display: inline-block; color: red;">
-    <strong><em>**Pursuing a Ph.D journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!**</em></strong>
+    <strong><em>**Pursuing a PhD journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!**</em></strong>
 </div>
 
 
 Hi, I'm [**Yiming Shi**](https://shiym.top/about/), an undergraduate at the University of Electronic Science and Technology of China (UESTC) enrolled in the Internet+ Dual Degree Program. 
-I'm pursuing a B.E. in Computer Science and a B.A. in Finance.
+I'm pursuing a BSc in Computer Science and a BEc in Finance.
 
 ## Current Position
 
