@@ -5,58 +5,160 @@ permalink: /slides/
 author_profile: true
 ---
 
-<h1>Personal Introduction Slides</h1>
+<!-- Academic Talks Section -->
+<div class="section academic-section">
+  <h1>Talks</h1>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 1; margin-right: 15px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202411180930255.png" alt="UESTC Style" style="width: 150px; margin-bottom: 10px;">
-    <h4>UESTC Style Introduction</h4>
-    <a href="/files/yimingshi_intro_uestc.pdf" class="btn btn-primary" style="display: inline-block; padding: 8px 15px; background-color: #003087; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9em;">View Slides</a>
-  </div>
-
-  <div style="flex: 1; margin-left: 15px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202411180930458.png" alt="CFM Style" style="width: 150px; margin-bottom: 10px;">
-    <h4>CFM Style Introduction</h4>
-    <a href="/files/yimingshi_intro_cfm.pdf" class="btn btn-primary" style="display: inline-block; padding: 8px 15px; background-color: #8B0000; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9em;">View Slides</a>
-  </div>
-</div>
-
-<h1>Academic Talks & Paper Readings</h1>
-
-<div class="talks-container" style="margin-top: 20px;">
-  <div class="talk-card" style="border: 1px solid #ddd; padding: 25px; margin-bottom: 25px; border-radius: 8px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <div style="display: flex; align-items: flex-start;">
-      <div style="flex: 0 0 200px; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202410181214510.jpg" alt="LoLDU Preview" style="width: 100%; border-radius: 4px;">
-      </div>
-      <div style="flex: 1;">
-        <h3 style="margin-top: 0;">LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition</h3>
-        <p><strong>Date:</strong> December 15, 2023</p>
-        <!-- <p><strong>Venue:</strong> UESTC AI Lab Seminar</p> -->
-        <p>A presentation about our novel PEFT method.</p>
-        <div style="margin-top: 15px;">
-          <a href="/files/loldu_slides.pdf" class="btn" style="display: inline-block; padding: 8px 15px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 4px; margin-right: 10px;">View Slides</a>
-          <a href="https://github.com/SKDDJ/LoLDU" class="btn" style="display: inline-block; padding: 8px 15px; background-color: #333; color: white; text-decoration: none; border-radius: 4px;">GitHub Repo</a>
-        </div>
-      </div>
+  <div class="talk">
+    <h3>LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition</h3>
+    <p><strong>Date:</strong> December 15, 2023</p>
+    <p>A presentation about our novel PEFT method.</p>
+    <div class="links">
+      <a href="/files/loldu_slides.pdf">View Slides</a>
+      <a href="https://github.com/SKDDJ/LoLDU">GitHub Repo</a>
     </div>
   </div>
 
-  <div class="talk-card" style="border: 1px solid #ddd; padding: 25px; margin-bottom: 25px; border-radius: 8px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <div style="display: flex; align-items: flex-start;">
-      <div style="flex: 0 0 200px; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202409041312737.png" alt="DiffLoRA Preview" style="width: 100%; border-radius: 4px;">
-      </div>
-      <div style="flex: 1;">
-        <h3 style="margin-top: 0;">DiffLoRA: Personalized Low-Rank Adaptation with Diffusion</h3>
-        <p><strong>Status:</strong> Coming Soon</p>
-        <p>An upcoming presentation on our innovative approach to generating personalized LoRA weights using diffusion models.</p>
-      </div>
+  <div class="talk">
+    <h3>DiffLoRA: Personalized Low-Rank Adaptation with Diffusion</h3>
+    <p><strong>Status:</strong> Coming Soon</p>
+    <p>An upcoming presentation on our innovative approach to generating personalized LoRA weights using diffusion models.</p>
+  </div>
+</div>
+
+<!-- Paper Reading Section -->
+<div class="section paper-reading-section">
+  <h1>Paper Readings</h1>
+
+  <!-- Example Paper Entry -->
+  <!-- <div class="paper">
+    <h3>Example Paper Title</h3>
+    <p><strong>Authors:</strong> Zhang San, Li Si</p>
+    <p>A brief introduction to the main content and contributions of the paper.</p>
+    <div class="links">
+      <a href="/files/example_paper.pdf">View Paper</a>
+      <a href="https://arxiv.org/abs/example">View Original</a>
+    </div>
+  </div> -->
+
+  <!-- Add more paper entries as needed -->
+</div>
+
+<!-- Personal Introduction Section -->
+<div class="section intro-section">
+  <h1>Personal Introduction</h1>
+  <div class="introductions">
+    <div class="intro">
+      <h4>UESTC Style Introduction</h4>
+      <a href="/files/yimingshi_intro_uestc.pdf">View Slides</a>
+    </div>
+    <div class="intro">
+      <h4>CFM Style Introduction</h4>
+      <a href="/files/yimingshi_intro_cfm.pdf">View Slides</a>
     </div>
   </div>
 </div>
 
-<div style="text-align: center; margin-top: 40px; padding: 20px; background-color: #f5f5f5; border-radius: 8px; border: 1px solid #e0e0e0;">
-  <h3 style="margin-top: 0;">More Academic Talks Coming Soon!</h3>
-  <p style="margin-bottom: 0;">Stay tuned for upcoming presentations and paper reading sessions. Follow me on <a href="https://github.com/SKDDJ" style="color: #0366d6;">GitHub</a> for updates.</p>
-</div>
+<style>
+  /* General Container Styles */
+  .section { 
+    max-width: 800px; 
+    margin: 40px auto; 
+    padding: 0 20px; 
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+
+  /* Header Styles */
+  .section h1 { 
+    text-align: center; 
+    color: #000; 
+    margin-bottom: 30px; 
+    font-size: 2em;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+  }
+
+  /* Talk and Paper Styles */
+  .talk, .paper {
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .talk h3, .paper h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.2em;
+    color: #003087;
+  }
+
+  .talk p, .paper p {
+    margin: 5px 0;
+    line-height: 1.6;
+  }
+
+  /* Links Styles */
+  .links a {
+    margin-right: 15px;
+    color: #003087;
+    text-decoration: none;
+    border: 1px solid #003087;
+    padding: 5px 10px;
+    border-radius: 3px;
+    transition: background-color 0.3s, color 0.3s;
+    font-size: 0.95em;
+  }
+
+  .links a:hover {
+    background-color: #003087;
+    color: #fff;
+  }
+
+  /* Personal Introduction Styles */
+  .introductions {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .intro {
+    text-align: center;
+    flex: 1 1 250px;
+    margin-bottom: 20px;
+  }
+
+  .intro h4 {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    color: #333;
+  }
+
+  .intro a {
+    color: #003087;
+    text-decoration: none;
+    border: 1px solid #003087;
+    padding: 5px 10px;
+    border-radius: 3px;
+    transition: background-color 0.3s, color 0.3s;
+    font-size: 0.95em;
+  }
+
+  .intro a:hover {
+    background-color: #003087;
+    color: #fff;
+  }
+
+  /* Responsive Design */
+  @media (max-width: 600px) { 
+    .introductions {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .links a {
+      display: block;
+      margin: 5px 0;
+    }
+  }
+</style>

@@ -12,32 +12,38 @@ redirect_from:
 </div>
 
 
-Hi, I'm [**Yiming Shi**](https://shiym.top/about/), an undergraduate in the ***Internet+ Dual Degree Program*** at the [University of Electronic Science and Technology of China (**UESTC**)](https://en.uestc.edu.cn/).
-
-I'm majoring double in **Computer Science and Technology** and **Finance**.
+Hi, I'm [**Yiming Shi**](https://shiym.top/about/), an undergraduate at the University of Electronic Science and Technology of China (UESTC) enrolled in the Internet+ Dual Degree Program. 
+I'm pursuing a B.E. in Computer Science and a B.A. in Finance.
 
 ## Current Position
 
-I'm currently an intern at [**TSAIL**](https://ml.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm), co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en). Currently I'm working with [Dr. Duo Su](https://suduo94.github.io/) in the area of dataset distillation, with a focus on Efficient AI.
+I'm currently an intern at [TSAIL](https://ml.cs.tsinghua.edu.cn/) at Tsinghua University, co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en). Currently I'm working with [Dr. Duo Su](https://suduo94.github.io/) in the area of dataset distillation, with a focus on Efficient AI.
 
 ## News
 
+<!-- Display latest 3 news items -->
 - [24/10/18] Our paper "LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning" has been published on arXiv. You can read the full paper [here](https://arxiv.org/abs/2410.13618). Our code can be accessed at [here](https://github.com/SKDDJ/LoLDU).
 
 - [24/08/11] Our paper "DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion" has been published on arXiv. You can read the full paper [here](https://arxiv.org/pdf/2408.06740).
 
+<details markdown="1">
+<summary>News Archived</summary>
+
+<!-- Archive of past research activities -->
 - [24/01/12] In the final round of the [International Algorithm and Case Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code is [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round). You can find our award certificate [here](../files/xiugo-certificate.pdf).
+
+</details>
 
 
 
 ## Previous Experience
 
 - **Research Intern** (May 2023 - Present)  
-  [**Center for Future Media**](https://cfm.uestc.edu.cn/index) at [**UESTC**](https://en.uestc.edu.cn/)  
+  [Center for Future Media](https://cfm.uestc.edu.cn/index) at University of Electronic Science and Technology of China (UESTC)  
   Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Dr. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
 
 - **DevOps Team Member** (Nov 2022 - Present)  
-  [**Star Studio**](https://github.com/StarStudio) (*Official Campus Forum Workshop*)
+  [Star Studio](https://github.com/StarStudio) at UESTC
 
 ## Research Interests
 
