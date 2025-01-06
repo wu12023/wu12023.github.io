@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiming Shi (史一鸣)"
+title: "Yujia Wu (吴宇嘉)"
 author_profile: true
 redirect_from: 
   - /about/
