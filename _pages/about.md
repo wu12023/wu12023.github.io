@@ -12,7 +12,7 @@ redirect_from:
 </div>
 
 
-Hi, I'm [**Yiming Shi**](https://shiym.top/about/), an undergraduate at the University of Electronic Science and Technology of China (UESTC) enrolled in the Internet+ Dual Degree Program. 
+Hi, I'm [**Yujia Wu**], an undergraduate at the University of Electronic Science and Technology of China (UESTC) enrolled in the Internet+ Dual Degree Program. 
 I'm pursuing a BSc in Computer Science and a BEc in Finance.
 
 ## Current Position
