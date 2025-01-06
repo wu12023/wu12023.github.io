@@ -7,21 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-<div style="border-bottom: 1px solid #000; display: inline-block; color: red;">
-    <strong><em>**Pursuing a PhD journey in multimodal research! If you're intrigued and considering collaboration or have insights, reach out via email. Let's innovate together!**</em></strong>
-</div>
 
 
-Hi, I'm [**Yujia Wu**], an undergraduate at the University of Electronic Science and Technology of China (UESTC) enrolled in the Internet+ Dual Degree Program. 
-I'm pursuing a BSc in Computer Science and a BEc in Finance.
+Hi, I'm [**Yujia Wu**], a master student at the University of Electronic Science and Technology of China (UESTC), future media center . 
+I'm pursuing a BSc in Computer Science.
 
-## Current Position
 
-I'm currently an intern at [TSAIL](https://ml.cs.tsinghua.edu.cn/) at Tsinghua University, co-advised by [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/) and [Dr. Zehua Chen](https://scholar.google.com/citations?user=wa04fD4AAAAJ&hl=en). Currently I'm working with [Dr. Duo Su](https://suduo94.github.io/) in the area of dataset distillation, with a focus on Efficient AI.
 
 ## News
 
 <!-- Display latest 3 news items -->
+- [24/1]
+
 - [24/10/18] Our paper "LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning" has been published on arXiv. You can read the full paper [here](https://arxiv.org/abs/2410.13618). Our code can be accessed at [here](https://github.com/SKDDJ/LoLDU).
 
 - [24/08/11] Our paper "DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion" has been published on arXiv. You can read the full paper [here](https://arxiv.org/pdf/2408.06740).
