@@ -9,19 +9,19 @@ redirect_from:
 
 
 
-Hi, I'm [**Yujia Wu**], a master student at the University of Electronic Science and Technology of China (UESTC), future media center . 
-I'm pursuing a BSc in Computer Science.
+Hi, I'm **Yujia Wu**, a master student at the University of Electronic Science and Technology of China (UESTC), The Center for Future Media. 
 
 
 
 ## News
 
 <!-- Display latest 3 news items -->
-- [24/1]
 
 - [24/10/18] Our paper "LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning" has been published on arXiv. You can read the full paper [here](https://arxiv.org/abs/2410.13618). Our code can be accessed at [here](https://github.com/SKDDJ/LoLDU).
 
-- [24/08/11] Our paper "DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion" has been published on arXiv. You can read the full paper [here](https://arxiv.org/pdf/2408.06740).
+- [24/09/09] Our paper "SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values" has been published on arXiv. You can read the full paper [here](https://arxiv.org/abs/2409.05926).
+
+- [24/08/11] Our paper "DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion Models" has been published on arXiv. You can read the full paper [here](https://arxiv.org/abs/2408.06740).
 
 <details markdown="1">
 <summary>News Archived</summary>
@@ -35,12 +35,13 @@ I'm pursuing a BSc in Computer Science.
 
 ## Previous Experience
 
-- **Research Intern** (May 2023 - Present)  
+- **Master Student** 
   [Center for Future Media](https://cfm.uestc.edu.cn/index) at University of Electronic Science and Technology of China (UESTC)  
   Co-advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Dr. Jiwei Wei](https://scholar.google.com/citations?user=2Jmbr6AAAAAJ&hl=zh-CN&oi=ao)
 
-- **DevOps Team Member** (Nov 2022 - Present)  
-  [Star Studio](https://github.com/StarStudio) at UESTC
+- **Bachelor Student** 
+  [School of Software Engineering](https://www.scse.uestc.edu.cn/) at Dalian University of Technology (DLUT)  
+
 
 ## Research Interests
 
@@ -48,13 +49,10 @@ My research primarily focuses on the following areas:
 
 - **Parameter-Efficient Fine-Tuning (PEFT)**
 - **Diffusion Models**
-- **Dataset Distillation**
-- **Schrodinger Bridge**
+- **AIGC**
 - **Multimodal**
 
 I'm deeply passionate about deep learning and its applications in these fields. 
 
-For a curated list of the latest research papers related to my interests, please visit [my ArXiv daily digest](https://shiym.top/cv-arxiv-daily/). This resource leverages the ArXiv API to aggregate and present relevant topics in an easily digestible format.
 
-
-[Email](mailto:yimingshi666@gmail.com) / [GitHub](https://github.com/SKDDJ) / [Wechat](https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg) / [Blog](https://shiym.top)
+[Email](mailto:202322080314.std.uestc.edu.cn) / [GitHub](https://github.com/wu12023)
