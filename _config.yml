@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yujia Wu"
-description              : &description "Research Intern @ 1-508 FIT Building, Tsinghua University"
-url                      : https://academic.shiym.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Master Student @ University of Electronic Science and Technology of China"
+url                      : hhttps://wu12023.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SKDDJ/yiming_shi.github.io"
 
@@ -21,14 +21,14 @@ repository               : "SKDDJ/yiming_shi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202410251412996.JPG"
+  avatar           : ""
   name             : "Yujia Wu"
   # pronouns         : "He/His"  # example: "she/her"
-  bio              : "Research Intern @ 1-508 FIT Building, Tsinghua University"
-  location         : "Beijing, 100084, China"
+  bio              : "Master Student @ University of Electronic Science and Technology of China"
+  location         : "Chengdu, 610054, China"
   # employer         : ""
-  uri              : "https://shiym.top" 
-  email            : "yimingshi666@gmail.com" 
+  uri              : "https://wu12023.github.io" 
+  email            : "202322080314@std.uestc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "SKDDJ"
+  github           : "wu12023"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
