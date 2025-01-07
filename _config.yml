@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Yiming Shi"
+name                     : &name "Yujia Wu"
 description              : &description "Research Intern @ 1-508 FIT Building, Tsinghua University"
 url                      : https://academic.shiym.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "SKDDJ/yiming_shi.github.io"
 author:
   # Biographic information
   avatar           : "https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202410251412996.JPG"
-  name             : "Yiming Shi"
+  name             : "Yujia Wu"
   # pronouns         : "He/His"  # example: "she/her"
   bio              : "Research Intern @ 1-508 FIT Building, Tsinghua University"
   location         : "Beijing, 100084, China"

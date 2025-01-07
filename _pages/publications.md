@@ -19,7 +19,7 @@ author_profile: true
   </div>
   <div style="flex: 2;">
     <h2 style="margin-top: 0;">LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning</h2>
-    <p><strong>Yiming Shi</strong>, Jiwei Wei, Yujia Wu, Ran Ran, Chengwei Sun, Shiyuan He, Yang Yang</p>
+    <p><strong>Yujia Wu</strong>, Jiwei Wei, Yujia Wu, Ran Ran, Chengwei Sun, Shiyuan He, Yang Yang</p>
     <p><em>arXiv 2024</em></p>
     <div class="tldr-section">
       <details>
@@ -39,7 +39,7 @@ author_profile: true
   </div>
   <div style="flex: 2;">
     <h2 style="margin-top: 0;">DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion</h2>
-    <p>Yujia Wu, <strong>Yiming Shi</strong>, Jiwei Wei, Chengwei Sun, Yuyang Zhou, Yang Yang, Heng Tao Shen</p>
+    <p>Yujia Wu, <strong>Yujia Wu</strong>, Jiwei Wei, Chengwei Sun, Yuyang Zhou, Yang Yang, Heng Tao Shen</p>
     <p><em>arXiv 2024</em></p>
     <div class="tldr-section">
       <details>

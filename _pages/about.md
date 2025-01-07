@@ -25,7 +25,7 @@ Hi, I'm **Yujia Wu**, a master student at the University of Electronic Science a
 
 <details markdown="1">
 <summary>News Archived</summary>
-
+- [24]
 <!-- Archive of past research activities -->
 - [24/01/12] In the final round of the [International Algorithm and Case Competition (IACC)](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50464a0ed647faca6266&award=1,000,000), we secured the 4th place (ranked 4/815). Our code is [available](https://github.com/SKDDJ/GHM-Greater-Bay-AI-Challenge-Final-Round). You can find our award certificate [here](../files/xiugo-certificate.pdf).
 
