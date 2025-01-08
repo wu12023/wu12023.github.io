@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "./images/500x300.png"
   name             : "Yujia Wu"
   # pronouns         : "He/His"  # example: "she/her"
   bio              : "Master Student @ University of Electronic Science and Technology of China, The Center for Future Media"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=k42LGiizpIEC"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=SO3rAHIAAAAJ"
   impactstory      : # URL
   # orcid            : "http://orcid.org/0009-0007-3735-3837"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
