@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yujia Wu"
-description              : &description "Master Student @ University of Electronic Science and Technology of China"
+description              : &description "Master Student @ University of Electronic Science and Technology of China, The Center for Future Media"
 url                      : hhttps://wu12023.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SKDDJ/yiming_shi.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : ""
   name             : "Yujia Wu"
   # pronouns         : "He/His"  # example: "she/her"
-  bio              : "Master Student @ University of Electronic Science and Technology of China"
+  bio              : "Master Student @ University of Electronic Science and Technology of China, The Center for Future Media"
   location         : "Chengdu, 610054, China"
   # employer         : ""
   uri              : "https://wu12023.github.io" 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "uestcshiym"  # Replace this with your X / Twitter handle
+  twitter          : "yujiawu191521"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
