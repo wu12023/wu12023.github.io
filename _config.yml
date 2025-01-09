@@ -14,7 +14,7 @@ name                     : &name "Yujia Wu"
 description              : &description "Master Student @ University of Electronic Science and Technology of China, The Center for Future Media"
 url                      : https://wu12023.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SKDDJ/yiming_shi.github.io"
+repository               : "wu12023/wu12023.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "SKDDJ/yiming_shi.github.io"
 author:
   # Biographic information
   avatar           : "https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202410251412996.JPG"
-  name             : "Yiming Shi"
+  name             : "Yujia Wu"
   # pronouns         : "He/His"  # example: "she/her"
   bio              : "Master Student @ University of Electronic Science and Technology of China, The Center for Future Media"
   location         : "Chengdu, China"
