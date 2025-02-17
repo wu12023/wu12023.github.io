@@ -21,7 +21,7 @@ repository               : "wu12023/wu12023.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Yujia Wu"
   # pronouns         : "He/His"  # example: "she/her"
   bio              : "Master Student @ University of Electronic Science and Technology of China, The Center for Future Media"
