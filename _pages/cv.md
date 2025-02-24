@@ -2,7 +2,7 @@
 layout: null
 title: "CV"
 permalink: /cv/
-redirect_to: /files/yimingshi_cv.pdf
+redirect_to: /files/wuyujia_cv.pdf
 ---
 
 
